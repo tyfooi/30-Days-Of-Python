@@ -1,6 +1,5 @@
 from countries import countries
 from countries_data import data
-from itertools import islice
 
 for i in range(10):
     print(i)
