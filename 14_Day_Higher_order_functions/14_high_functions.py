@@ -1,0 +1,1 @@
+# list comphrehension + lambda is faster and easier to read so im skipping this section
